@@ -20,8 +20,7 @@ Paq   	Aquatic Plant Proxy; estimates the contribution of submerged and floating
 OEP	    Odd-Even Preference; measures the dominance of odd or even carbon-numbered n-alkanes
 
 # Target Variables
-Plant Type
-Climate
+Plant type & Climate
 
 # Methodology
 1. Data Preparation
