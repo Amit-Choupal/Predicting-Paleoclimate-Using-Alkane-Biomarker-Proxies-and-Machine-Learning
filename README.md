@@ -1,0 +1,2 @@
+# Predicting-Paleoclimate-Using-Alkane-Biomarker-Proxies-and-Machine-Learning
+GeoAI proof-of-concept that applies Random Forest machine learning to synthetic GC-MS alkane proxies data. Geochemical proxies including ACL, TAR, CPI, Paq, and OEP are used to predict vegetation type and paleoclimate conditions. This demonstrates the integration of organic geochemistry, Python, and ML for paleoenvironmental interpretation.
