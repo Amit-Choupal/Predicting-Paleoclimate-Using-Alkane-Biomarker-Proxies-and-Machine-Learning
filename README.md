@@ -12,12 +12,7 @@ The project demonstrates how Python and Machine Learning can be integrated with 
 The dataset contains alkane biomarker proxy values representing different vegetation and climate scenarios. The input features include commonly used organic geochemical indices derived from n-alkane distributions.
 
 # Input Features
-Proxy      	Description
-ACL   	Average Chain Length; associated with vegetation type and climatic conditions
-TAR	    Terrigenous-to-Aquatic Ratio; indicates terrestrial versus aquatic organic matter input
-CPI	    Carbon Preference Index; reflects odd-over-even predominance and organic matter maturity
-Paq   	Aquatic Plant Proxy; estimates the contribution of submerged and floating aquatic vegetation
-OEP	    Odd-Even Preference; measures the dominance of odd or even carbon-numbered n-alkanes
+ACL= Average Chain Length; associated with vegetation type and climatic conditions, TAR= Terrigenous-to-Aquatic Ratio; indicates terrestrial versus aquatic organic matter input, CPI= Carbon Preference Index; reflects odd-over-even predominance and organic matter maturity, Paq= Aquatic Plant Proxy; estimates the contribution of submerged and floating aquatic vegetation, OEP= Odd-Even Preference; measures the dominance of odd or even carbon-numbered n-alkanes
 
 # Target Variables
 Plant type & Climate
