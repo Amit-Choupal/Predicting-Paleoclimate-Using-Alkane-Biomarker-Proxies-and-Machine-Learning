@@ -45,6 +45,13 @@ Predicted Plant Type & Predicted Paleoclimate
 # Results
 The Random Forest model successfully learned relationships between alkane biomarker proxies and environmental classes within the dataset. The project demonstrates the potential of machine learning techniques for classifying paleoenvironmental conditions using organic geochemical indicators.
 
+# Sustainability & Climate Relevance
+By training a model to decode the exact mathematical relationships between alkane biomarkers and historical climate types, this project builds a predictive bridge between past environmental responses and future climate scenarios. This contributes directly to Climate Risk Modeling and UN Sustainable Development Goal 13 (Climate Action):
+
+Predicting Ecosystem Stress: Plants alter their leaf-wax alkane structures (like chain length and ratios) to survive shifting temperatures and droughts. By learning these relationships, the model helps establish a baseline for how modern vegetation zones might adapt—or collapse—under current human-driven climate change.
+
+Accelerating Climate Audits: Instead of relying solely on manual, time-consuming geological interpretations, this machine learning framework automates the identification of climate-driven ecosystem shifts, offering a scalable tool for long-term environmental tracking and climate risk assessment.
+
 # Disclaimer
 The dataset used in this project is synthetically generated and does not represent real GC-MS measurements. The project was developed for exploratory & educational purposes to demonstrate how machine learning techniques can be applied to geochemical proxy datasets.
 
